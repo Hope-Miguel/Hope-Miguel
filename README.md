@@ -5,7 +5,7 @@
 
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-bottom:2rem"><br>
   <img align="center" alt="Hope-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hope-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Hope-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
